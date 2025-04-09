@@ -1,2 +1,4 @@
 # AI-IMAGE-GENERATOR
-this project is  build and developed for creating image as follow the user request  converting text into image using java, node.js and UI with API keys 
+
+AI- IMAGE GENERATOR (09/2024 - 10/2024)
+Designed and implemented an AI powered image generator using GANs and Diffusion Models to create high-quality visuals from text inputs. Developed in Node.js and Java with an intuitive UI and seamless API integration. Optimized model performance for fastest processing and ensured ethical AI compliance
